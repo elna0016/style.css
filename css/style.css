@@ -14,4 +14,7 @@ P{
     font-family : sans-serif;
     font-weight: bold;
   }
+  header div {
+    margin: 1em 0
+  }
   
