@@ -9,4 +9,9 @@ h1, h2, h3 {
 P{
     margin: .5em 0; 
   }
+  h1+ p , h3+ p{
+    color: purple;
+    font-family : sans-serif;
+    font-weight: bold;
+  }
   
