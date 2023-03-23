@@ -37,4 +37,16 @@ P{
   main > section{
     margin-bottom: 3rem;
   }
+  main > section > h2 + p > strong{
+    color: purple;
+  }
+  li:nth-child(2){
+    color: purple;
+  }
+  dl div:last-of-type{
+    background-color: #ccc;
+  }
+  
+  
+
 
